@@ -40,7 +40,7 @@ Vamos receber e fazer a avaliação de todos.
 
 ## 4. Extras
 
-Se você realmente quiser a vaga, prepare o projeto para ser executado e testado de maneira prática publique o projeto em algum servidor de sites estáticos (ex: [Vercel](https://vercel.com/) ou [Netlify](https://netlify.com/))
+Se você realmente quiser a vaga, prepare o projeto para ser executado e testado de maneira prática e publique o projeto em algum servidor de sites estáticos (ex: [Vercel](https://vercel.com/) ou [Netlify](https://netlify.com/))
 
 Esse teste tem como objetivo avaliar você de forma técnica. Você não precisa ser o melhor o tempo todo (isso é impossível), mas precisa ter vontade de ser um profissional melhor do foi que ontem. Precisa 'perder tempo' buscando soluções e não dando desculpas. Combinado? 
 
